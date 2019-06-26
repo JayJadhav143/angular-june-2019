@@ -1,5 +1,5 @@
 // what is let ?
-let nm = 'android'
+let nm = 'ios'
 nm = true
 nm = 45
 nm = 45.89
